@@ -57,6 +57,17 @@
                 />
 
             <com.airbnb.lottie.LottieAnimationView
+                android:layout_marginTop="45dp"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                app:lottie_loop="true"
+                app:lottie_autoPlay="true"
+                app:lottie_fileName="109353-progress-bar.json"
+                />
+
+
+            <com.airbnb.lottie.LottieAnimationView
                 android:layout_width="0dp"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
