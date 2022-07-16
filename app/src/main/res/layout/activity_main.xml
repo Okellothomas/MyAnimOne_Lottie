@@ -61,6 +61,7 @@
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
                 app:lottie_speed="1.24"
+                android:id="@+id/secondOne"
                 app:lottie_autoPlay="false"
                 app:lottie_loop="false"
                 app:lottie_fileName="99988-like-animation-thumbs-up.json"
